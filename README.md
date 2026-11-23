@@ -44,5 +44,5 @@ J'aime construire des interfaces modernes, claires et utiles, du design jusqu'à
 <!-- Remplace les liens ci-dessous par les tiens, ou supprime ceux que tu n'utilises pas -->
 <p>
   <a href="https://www.linkedin.com/in/TON-PROFIL"><img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"></a>
-  <a href="mailto:TON-EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"></a>
+  <a href="mailto:nyankoyedanielfelemou32156@gmail.com"><img src="https://img.shields.io/badge/Email-0B1220?style=for-the-badge&logo=gmail&logoColor=38BDF8" alt="Email"></a>
 </p>
